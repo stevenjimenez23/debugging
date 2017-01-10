@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Quicksand');
+
+body {
+    background: url("http://www.pixeden.com/images/stories/blog/wallpapers/1212/1920x1200.jpg");
+    color: #444444;
+    font-family: 'Quicksand';
+    width: 80%;
+    margin: auto;
+}
+
+h1, h3 {
+    font-family: 'Permanent Marker';
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+div {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 20px;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
